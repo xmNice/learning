@@ -6,3 +6,6 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
 
+GitHub Skills 提供免费互动课程，它们内置于 GitHub 
+附有即时自动反馈和帮助。 学习提出第一个拉取请求、做出第一个开源贡献、
+创建 GitHub Pages 站点等。 有关课程设置的详细信息，请参阅 
